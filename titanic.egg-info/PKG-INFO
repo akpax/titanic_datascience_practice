@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: titanic
+Version: 0.1
+Summary: Analysis of the Titanic dataset
+Home-page: https://github.com/akpax/titanic_datascience
+Author: Austin Paxton
+Author-email: austin.paxton007@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+
+
