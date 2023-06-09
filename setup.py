@@ -26,6 +26,10 @@ setup(
     license='MIT',
     packages=['titanic'],
     install_requires=[
-        "pypandoc<1.8"
+        "pypandoc<1.8",
+        "pytest",
+        "pytest-runner"
     ]
+    setup_requires=["pytest-runner"],
+    tests_require=["pytest"]
 )
